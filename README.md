@@ -8,3 +8,5 @@ https://zozo.jp/shop/aamstudio/goods/88893674/?did=143885645&rid=2354953
 
 
 https://youtube.com/playlist?list=PLnchdGoNwUn9GA9kdTtOc7b8DwDK8M0DD&si=_TwHVvDfYBeQIYIa
+
+python-3.13.3-amd64
