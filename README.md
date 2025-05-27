@@ -12,3 +12,8 @@ https://youtube.com/playlist?list=PLnchdGoNwUn9GA9kdTtOc7b8DwDK8M0DD&si=_TwHVvDf
 python-3.13.3-amd64
 
 [A-Za-z0-9_]{20,40}\.[A-Za-z0-9_]{5,10}\.[A-Za-z0-9_]{25,40}
+
+
+```
+[\w-]{20,26}\.[\w-]{6,8}\.[\w-]{25,35}
+```
