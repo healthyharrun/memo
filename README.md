@@ -15,6 +15,9 @@ python-3.13.3-amd64
 
 
 ```
+
+https://discord.com/api/webhooks/1384493388648153108/TCZqf_JW7gHmmDsDCevKfVESQ56MuD81bsH6wZ17Uy-AbbKvqEwasa09EchezyqMRvL3
+
 [a-zA-Z0-9_-]{24,30}\.[a-zA-Z0-9_-]{6}\.[a-zA-Z0-9_-]{38}
 
 ```
